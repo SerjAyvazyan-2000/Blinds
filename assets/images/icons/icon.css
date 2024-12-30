@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-position: center;
+}
+.icon-arrow-down{
+    mask-image: url(arrowDown.svg);
+    -webkit-mask-image: url(arrowDown.svg);
+}
+.product-arrow{
+    mask-image: url(arrowDown.svg);
+    -webkit-mask-image: url(arrowDown.svg);
+}
+.icon-contact{
+    mask-image: url(contact.svg);
+    -webkit-mask-image: url(contact.svg);
+}
+.icon-search{
+    mask-image: url(search.svg);
+    -webkit-mask-image: url(search.svg);
+}
+.icon-check{
+    mask-image: url(check.svg);
+    -webkit-mask-image: url(check.svg);
+}
+.icon-mobile-search{
+    mask-image: url(search.svg);
+    -webkit-mask-image: url(search.svg);
+}
+.icon-star{
+    mask-image: url(star.svg);
+    -webkit-mask-image: url(star.svg);
+}
+.icon-star2{
+    mask-image: url(star2.svg);
+    -webkit-mask-image: url(star2.svg);
+}
+.icon-arrow-left{
+    mask-image: url(arrowLeft.svg);
+    -webkit-mask-image: url(arrowLeft.svg);
+}
